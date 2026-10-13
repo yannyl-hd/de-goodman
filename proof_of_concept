@@ -1,0 +1,30 @@
+# proof of concept using DE - Goodman
+
+#initial guesses/info
+Mm = 3000;
+Ma = 2000;
+Tm = 900;
+Ta = 900;
+n = 1.5;
+Sut = 75000;
+do = 1;
+
+#find SE
+Se_prime = 0.5*Sut
+ka = 2.7*(75)**(-0.265)
+kb = (1/0.3)**(-0.107)
+kc =1
+kd =1
+ke = 0.702;
+
+Se = Se_prime*ka*kb*kc*kd*ke
+print("Se = " +str(Se))
+
+#finding kt,q,kf
+kt = 0.97098*0.1**-0.21796
+kts = 0.83425*0.1**-0.21542
+
+rd = 0.1
+r = 0.1
+
+a = (0.246 - (3.08*(10**-3))*Sut + (1.5*(10**-5))*(Sut**2) - (2.67*(10**-8))*(Sut**3))**2

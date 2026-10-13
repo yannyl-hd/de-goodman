@@ -1,0 +1,141 @@
+{ "ASTM": [
+        {"AISI" : "1006",
+         "HR": [
+            {"Tensile Strength": 300,
+            "Yield Strength": 170
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 330,
+             "Yield STrength": 280
+            }
+            ]
+        },
+        {"AISI" : "1010",
+         "HR": [
+            {"Tensile Strength": 320,
+            "Yield Strength": 180
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 370,
+             "Yield STrength": 300
+            }
+            ]
+        },
+        {"AISI" : "1015",
+         "HR": [
+            {"Tensile Strength": 340,
+            "Yield Strength": 190
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 390,
+             "Yield STrength": 320
+            }
+            ]
+        },
+        {"AISI" : "1018",
+         "HR": [
+            {"Tensile Strength": 400,
+            "Yield Strength": 220
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 440,
+             "Yield STrength": 370
+            }
+            ]
+        },
+        {"AISI" : "1020",
+         "HR": [
+            {"Tensile Strength": 380,
+            "Yield Strength": 210
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 470,
+             "Yield STrength": 390
+            }
+            ]
+        },
+        {"AISI" : "1030",
+         "HR": [
+            {"Tensile Strength": 470,
+            "Yield Strength": 260
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 520,
+             "Yield STrength": 440
+            }
+            ]
+        },
+        {"AISI" : "1035",
+         "HR": [
+            {"Tensile Strength": 500,
+            "Yield Strength": 270
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 550,
+             "Yield STrength": 460
+            }
+            ]
+        },
+        {"AISI" : "1040",
+         "HR": [
+            {"Tensile Strength": 520,
+            "Yield Strength": 290
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 590,
+             "Yield STrength": 490
+            }
+            ]
+        },
+        {"AISI" : "1045",
+         "HR": [
+            {"Tensile Strength": 570,
+            "Yield Strength": 310
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 630,
+             "Yield STrength": 530
+            }
+            ]
+        },
+        {"AISI" : "1050",
+         "HR": [
+            {"Tensile Strength": 620,
+            "Yield Strength": 340
+            }
+            ],
+         "CD": [
+            {"Tensile Strength": 690,
+             "Yield STrength": 580
+            }
+            ]
+        },
+        {"AISI" : "1060",
+         "HR": [
+            {"Tensile Strength": 680,
+            "Yield Strength": 370
+            } ]
+        },
+        {"AISI" : "1080",
+         "HR": [
+            {"Tensile Strength": 770,
+            "Yield Strength": 420
+            } ]
+        },
+        {"AISI" : "1095",
+         "HR": [
+            {"Tensile Strength": 830,
+            "Yield Strength": 460
+            } ]
+        }
+    ]
+}
