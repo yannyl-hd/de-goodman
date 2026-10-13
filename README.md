@@ -53,9 +53,9 @@ The estimated diameter depends on the accuracy of the input loads, material prop
 
 ## Feedback and Contributions
 
-Although this project was originally developed for MAE 190, I believe there is still room for improvement in both the code and the overall shaft design process. I'm always open to suggestions, feedback, and ideas for improvement!
+Although this project was originally developed for MAE 190 quite awhile, I believe there is still room for improvement in both the code and the overall shaft design process. I'm always open to suggestions, feedback, and ideas for improvement.
 
-If you have any recommendations or notice something that could be done better, feel free to reach out or open an issue. I'd love to hear your thoughts and continue improving the project.
+If you have any recommendations or notice something that could be done better, feel free to reach out or open an issue. 
 
 ## References
 
